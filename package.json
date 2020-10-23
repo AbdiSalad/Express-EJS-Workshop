@@ -1,0 +1,25 @@
+{
+  "name": "express-ejs-workshop",
+  "version": "1.0.0",
+  "description": "=> This workshop will go over the basics of Express and Pug by\r    teaching you how to create a simple sign up and register page.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdiSalad/Express-EJS-Workshop.git"
+  },
+  "author": "Abdurahman Salad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdiSalad/Express-EJS-Workshop/issues"
+  },
+  "homepage": "https://github.com/AbdiSalad/Express-EJS-Workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
